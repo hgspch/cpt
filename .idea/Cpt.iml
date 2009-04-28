@@ -24,21 +24,24 @@
     <orderEntry type="library" name="[gem] activeresource (v2.3.2, C:/rdev/ruby/lib/ruby/gems/1.8/gems/activeresource-2.3.2)" level="application" />
     <orderEntry type="library" name="[gem] actionmailer (v2.3.2, C:/rdev/ruby/lib/ruby/gems/1.8/gems/actionmailer-2.3.2)" level="application" />
   </component>
+  <component name="RModuleSettingsStorage">
+    <RMODULE_SETTINGS_STORAGE_ID NAME="NUMBER" VALUE="0" />
+  </component>
   <component name="RailsViewFoldersManager">
     <USER_URLS url="file://$MODULE_DIR$/config" />
-    file://$MODULE_DIR$/config
+    file://C:/Users/Hugues/Documents/RubyMineProjects/Cpt/config
     <USER_URLS url="file://$MODULE_DIR$/public/javascripts" />
-    file://$MODULE_DIR$/public/javascripts
+    file://C:/Users/Hugues/Documents/RubyMineProjects/Cpt/public/javascripts
     <USER_URLS url="file://$MODULE_DIR$/public/stylesheets" />
-    file://$MODULE_DIR$/public/stylesheets
+    file://C:/Users/Hugues/Documents/RubyMineProjects/Cpt/public/stylesheets
     <USER_URLS url="file://$MODULE_DIR$/lib" />
-    file://$MODULE_DIR$/lib
+    file://C:/Users/Hugues/Documents/RubyMineProjects/Cpt/lib
     <USER_URLS url="file://$MODULE_DIR$/spec" />
-    file://$MODULE_DIR$/spec
+    file://C:/Users/Hugues/Documents/RubyMineProjects/Cpt/spec
     <USER_URLS url="file://$MODULE_DIR$/vendor/plugins" />
-    file://$MODULE_DIR$/vendor/plugins
+    file://C:/Users/Hugues/Documents/RubyMineProjects/Cpt/vendor/plugins
     <USER_URLS url="file://$MODULE_DIR$/vendor/rails" />
-    file://$MODULE_DIR$/vendor/rails
+    file://C:/Users/Hugues/Documents/RubyMineProjects/Cpt/vendor/rails
   </component>
 </module>
 
