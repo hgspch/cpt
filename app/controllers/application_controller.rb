@@ -6,7 +6,7 @@ class ApplicationController < ActionController::Base
   before_filter :authorize, :except => :login
 
   # in Rails 2.3.2, [session_]key, session_store, and secret moved to config/initializers/session_store.rb
-  # ----------------------------------------------------------------------------------------------------
+  # -----------------------------------------------------------------------------------------------------
 
   helper :all # include all helpers, all the time
   protect_from_forgery # See ActionController::RequestForgeryProtection for details
