@@ -1,0 +1,32 @@
+Installer Git client pour Windows:
+http://code.google.com/p/msysgit
+
+Générer les clés SSH:
+Lancer le Git Bash, et tapper:
+ssh-keygen -C “username@email.com” -t rsa
+
+Les clés sont dans:
+C:\Users\Hugues\.ssh
+
+Publier la clé pub sur GitHub
+
+
+Dans RubyMine:
+===========
+
+La 1ère fois
+-----------
+Faire un Git Init:
+Version Control | Git Init
+
+Faire un Add des fichiers:
+Dans la fenêtre Changes, faire Add sur tous les fichiers souhaités
+
+Les autres fois:
+---------------
+Faire un Commit:
+Version Control | Git | Commit Directory
+
+Envoyer sur le serveur avec un Push:
+Version Control | Git | Push Changes
+
