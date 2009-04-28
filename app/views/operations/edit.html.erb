@@ -1,0 +1,36 @@
+<h1>Editing operation</h1>
+
+<% form_for(@operation) do |f| %>
+  <%= f.error_messages %>
+
+  <p>
+    <%= f.label :title %><br />
+    <%= f.text_field :title %>
+  </p>
+  <p>
+    <%= f.label :description %><br />
+    <%= f.text_area :description, :class => 'editTextArea', :rows => 5 %>
+  </p>
+  <p>
+    <%= f.label :amount %><br />
+    <%= f.text_field :amount %>
+  </p>
+  <p>
+    <%= f.label :ope_type %><br />
+    <%= f.text_field :ope_type %>
+  </p>
+  <p>
+    <%= f.label :ope_date %><br />
+    <%= f.date_select :ope_date %>
+  </p>
+  <p>
+    <%= f.label :repeat %><br />
+    <%= f.text_field :repeat %>
+  </p>
+  <p>
+    <%= f.submit 'Update' %>
+  </p>
+<% end %>
+
+<%= link_to 'Show', @operation %> |
+<%= link_to 'Back', operations_path %>

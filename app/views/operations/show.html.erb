@@ -1,0 +1,33 @@
+<p>
+  <b>Title:</b>
+  <%=h @operation.title %>
+</p>
+
+<p>
+  <b>Description:</b>
+  <%=h @operation.description %>
+</p>
+
+<p>
+  <b>Amount:</b>
+  <%=h @operation.amount %>
+</p>
+
+<p>
+  <b>Type:</b>
+  <%=h @operation.ope_type %>
+</p>
+
+<p>
+  <b>Date:</b>
+  <%=h @operation.ope_date %>
+</p>
+
+<p>
+  <b>Repeat:</b>
+  <%=h @operation.repeat %>
+</p>
+
+
+<%= link_to 'Edit', edit_operation_path(@operation) %> |
+<%= link_to 'Back', operations_path %>

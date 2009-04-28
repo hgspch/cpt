@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
+    <title>Users: <%= controller.action_name %></title>
+    <%= stylesheet_link_tag 'styles' %>
+</head>
+<body>
+
+<div id="navigation">
+    <ul>
+        <li>
+        <% if controller.controller_name == 'home' %>
+            <span class="topMenuItemOn">Welcome</span>
+        <% else %>
+            <span><%= link_to "Welcome", :controller => "home" %></span>
+        <% end %>
+        </li>
+
+        <li>
+        <% if controller.controller_name == 'accounts' %>
+            <span class="topMenuItemOn">Accounts</span>
+        <% else %>
+           <span><%= link_to "Accounts", :controller => "accounts" %></span>
+        <% end %>
+        </li>
+    </ul>
+</div>
+<div id="container">
+    <div id="top">
+        <h1>Header</h1>
+    </div>
+    <div id="leftnav">
+        <p>
+            Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt
+            ut.
+        </p>
+    </div>
+    <div id="content">
+
+        <p style="color: green"><%= flash[:notice] %></p>
+
+        <%= yield %>
+
+    </div>
+    <div id="footer">
+        Footer
+    </div>
+</div>
+</body>
+</html>

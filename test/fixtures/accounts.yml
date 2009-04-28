@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: Compte CE
+  description: Compte courant Caisse d'Epargne
+  balance: 1000
+
+two:
+  name: MyString
+  description: MyText
+  balance: 
