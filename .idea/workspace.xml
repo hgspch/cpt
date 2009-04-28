@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project relativePaths="false" version="4">
   <component name="ChangeListManager">
-    <list default="true" readonly="true" name="Default" comment="&#10;# Brief commit description here&#10;&#10;# Full commit description here (comment lines starting with '#' will not be included)&#10;&#10;">
+    <list default="true" readonly="true" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GIT_Howto.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GIT_Howto.txt" afterPath="$PROJECT_DIR$/GIT_Howto.txt" />
     </list>
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
@@ -31,7 +31,7 @@
       <file leaf-file-name="GIT_Howto.txt" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GIT_Howto.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="266" selection-end="266" vertical-scroll-proportion="0.5607477">
+            <state line="21" column="49" selection-start="388" selection-end="388" vertical-scroll-proportion="0.50832075">
               <folding />
             </state>
           </provider>
@@ -472,10 +472,10 @@
     <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32896653" sideWeight="0.5" order="7" side_tool="false" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32896653" sideWeight="0.5" order="7" side_tool="false" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32896653" sideWeight="0.5" order="7" side_tool="false" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24847429" sideWeight="0.6826783" order="1" side_tool="false" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32924694" sideWeight="0.66084427" order="0" side_tool="false" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32924694" sideWeight="0.19650654" order="0" side_tool="false" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" />
       <window_info id="Web Preview" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30713245" sideWeight="0.5" order="7" side_tool="false" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3988355" sideWeight="0.5" order="3" side_tool="false" />
@@ -501,7 +501,7 @@
     <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
     <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajout de worspace.xml&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="GIT Howto" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
@@ -524,6 +524,7 @@
     <MESSAGE value="test" />
     <MESSAGE value="test2" />
     <MESSAGE value="ajout de worspace.xml&#10;" />
+    <MESSAGE value="GIT Howto" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -636,7 +637,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GIT_Howto.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="266" selection-end="266" vertical-scroll-proportion="0.5607477">
+        <state line="21" column="49" selection-start="388" selection-end="388" vertical-scroll-proportion="0.50832075">
           <folding />
         </state>
       </provider>

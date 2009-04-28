@@ -19,6 +19,9 @@ La 1ère fois
 Faire un Git Init:
 Version Control | Git Init
 
+Faire un Commit: (cela va céer la branche master)
+Version Control | Git | Commit Directory
+
 Faire un Add des fichiers:
 Dans la fenêtre Changes, faire Add sur tous les fichiers souhaités
 
